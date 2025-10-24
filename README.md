@@ -7,10 +7,12 @@ So you must remember the **entire sequence from the beginning**. Ready to test y
 
 ---
 
-## 🌐 Live Demo  
-🔗 [Play Now](#)
-> https://tushar-313.github.io/simon-game/
+
+## 🌐 Live Demo
+🔗 [🎮 Play Now](https://tushar-313.github.io/simon-game/)
+
 ---
+
 
 ## 🧠 Game Rules
 
