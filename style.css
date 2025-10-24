@@ -1,0 +1,51 @@
+body{
+    /* overflow: hidden; */
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    
+
+}
+.btn{ 
+    width: 180px;
+    height: 180px;
+    margin: 2rem 1rem ;
+    border: 5px solid white;
+ 
+    }
+.flash{
+    background-color: black !important;
+}
+
+#red{   
+     background-color: red; 
+     border-top-right-radius: 30%;
+     border-bottom-left-radius: 30%; 
+     }
+#blue{
+     background-color: blue ;
+     border-top-right-radius: 30%;
+     border-bottom-left-radius: 30%;
+    }
+#yellow{
+    background-color: rgb(233, 199, 8);
+    border-bottom-right-radius: 30%;
+     border-top-left-radius: 30%;
+}
+#green{
+    background-color: green;
+    border-top-left-radius: 30%;
+     border-bottom-right-radius: 30%;
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+.over{
+    background-color: rgb(120, 2, 2);
+}
